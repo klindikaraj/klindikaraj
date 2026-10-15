@@ -1,6 +1,6 @@
 # Hi, I'm Klindi 👋
 
-Junior developer from Padova, Italy. I build backend-heavy web apps in **Python (FastAPI)** and **PHP/MySQL**, and I like turning messy data into something people can actually use.
+Junior developer from Padova, Italy. I build backend-heavy web apps in **Python (FastAPI)** and **PHP/MySQL**, and I turn messy data into something people can use.
 
 Right now I'm building **[DataScrub](https://datascrub.up.railway.app/)** on my own: a stateless web app that cleans CSV files (emails, phone numbers, names, duplicates) for virtual assistants and e-commerce teams. It's live in production, with 150+ automated tests.
 
@@ -20,4 +20,4 @@ Right now I'm building **[DataScrub](https://datascrub.up.railway.app/)** on my 
 - **Networking:** Cisco (ITI Informatica e Telecomunicazioni)
 
 ## Contact
-[Email](mailto:karaj.klindi@gmail.com) · Italian (native) · English (B2)
+📧 karaj.klindi@gmail.com · Italian (native) · English (B2)

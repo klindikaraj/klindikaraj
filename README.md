@@ -14,11 +14,11 @@ Takes a messy CSV export and returns a clean file. Live, in beta.
 - Stateless: the app keeps no copy of uploaded files
 - I chose to leave phone numbers without a country code unchanged and flag them in a `phone_status` column. Guessing the country would corrupt international lists.
 
-[Live app](https://datascrub.up.railway.app/)
+[Live app](https://datascrub.up.railway.app/) · Code: private, available on request
 
 ### OddsLab
 
-Compares bookmaker odds with Poisson and Elo models and flags the odds that look mispriced. School capstone, finished in 2026.
+Compares bookmaker odds with Poisson and Elo models and flags mispriced odds. School capstone, finished in 2026.
 
 - Python engine that pulls data from 4 external APIs, a 10-table MySQL schema, and a PHP dashboard with Chart.js
 - I added fuzzy matching on team names, so results from football-data.org and balldontlie.io attach to the right game
